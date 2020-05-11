@@ -47,6 +47,9 @@ Pytorch code and weights to Pytorch model
 
 At this point, you will have a few files in your directory. To save some space you can delete everything and keep **Pytorch_VGGFACE_IR.py** and **Pytorch_VGGFACE.pth**
 
+근데 pycaffe가 없어서 에러가 나므로 그냥 https://drive.google.com/file/d/1--H-BwwZhjE4USGIQEfo0jLauA7UDNfD/view?usp=sharing 여기서 weight 받아서 쓰자
+
+
 ### 2.Libraries
 - face-alignment
 - torch
